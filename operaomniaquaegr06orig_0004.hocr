@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniaquaegr06orig/operaomniaquaegr06orig_0004.png"; bbox 0 0 1808 3096; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 465 1436 1346 1660">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 465 1436 1346 1660">
+     <span class='ocr_line' id='line_1_1' title="bbox 465 1436 1346 1496; baseline 0 -14"><span class='ocrx_word' id='word_1_1' title='bbox 465 1436 697 1496; x_wconf 64' lang='lat' dir='ltr'>Digitized</span> <span class='ocrx_word' id='word_1_2' title='bbox 722 1436 782 1496; x_wconf 83' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 804 1436 887 1483; x_wconf 74' lang='lat' dir='ltr'>the</span> <span class='ocrx_word' id='word_1_4' title='bbox 915 1436 1120 1483; x_wconf 69' lang='lat' dir='ltr'>internet</span> <span class='ocrx_word' id='word_1_5' title='bbox 1141 1436 1346 1483; x_wconf 74' lang='lat' dir='ltr'><strong>Archive</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 556 1518 1253 1578; baseline 0 -14"><span class='ocrx_word' id='word_1_6' title='bbox 556 1518 596 1564; x_wconf 79' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_7' title='bbox 621 1519 755 1565; x_wconf 81' lang='lat'>2009</span> <span class='ocrx_word' id='word_1_8' title='bbox 777 1518 884 1565; x_wconf 72' lang='lat' dir='ltr'>with</span> <span class='ocrx_word' id='word_1_9' title='bbox 908 1518 1109 1578; x_wconf 70' lang='lat' dir='ltr'>fundinq</span> <span class='ocrx_word' id='word_1_10' title='bbox 1133 1518 1253 1565; x_wconf 77' lang='lat' dir='ltr'>from</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 621 1600 1189 1660; baseline 0.002 -14"><span class='ocrx_word' id='word_1_11' title='bbox 621 1600 890 1660; x_wconf 77' lang='lat' dir='ltr'>University</span> <span class='ocrx_word' id='word_1_12' title='bbox 913 1600 962 1647; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_13' title='bbox 983 1600 1189 1647; x_wconf 76' lang='lat' dir='ltr'>Toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 2900 1671 2960">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 137 2900 1671 2960">
+     <span class='ocr_line' id='line_1_4' title="bbox 137 2900 1671 2960; baseline 0.001 -14"><span class='ocrx_word' id='word_1_14' title='bbox 137 2900 1671 2960; x_wconf 66' lang='lat' dir='ltr'>http:llwwwarchive.orqldetailssoperaomniaquaequGoriq</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
